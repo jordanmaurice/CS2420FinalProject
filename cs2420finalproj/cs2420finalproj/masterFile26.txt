@@ -1,0 +1,1 @@
+26 inviscid leading-edge effect hypersonic flow cheng,h.k. pallone,a.j. j. ae. scs. 23, 1956, 700. current interest problem inviscid-viscous interaction has led to realization significant effect leading-edge thickness hypersonic flow purpose note to give account downstream influence blunt leading edge on basis hypersonic small perturbation theory 
